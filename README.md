@@ -3,8 +3,6 @@
 <h3 align="center">Cybersecurity Professional - IAM</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proteekbose&label=Profile%20views&color=0e75b6&style=flat" alt="proteekbose" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proteekbose&theme=" alt="proteekbose" /></a> </p>
-
 - 🌱 I’m currently learning **Cryptography**
 - 💬 Ask me about **Identity and Access Management (ForgeRock/Sailpoint) | SSO (PingFederate/Microsoft ADFS) | Cloud Security (GCP) | Coding (Python/Java) | App Development (Flutter)**
 - 📫 How to reach me **proby@bu.edu**
