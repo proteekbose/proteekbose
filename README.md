@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proteekbose&theme=" alt="proteekbose" /></a> </p>
 
 - 🌱 I’m currently learning **Cryptography**
-
+- 💬 Ask me about **Identity and Access Management (ForgeRock/Sailpoint) | SSO (PingFederate/Microsoft ADFS) | Cloud Security (GCP) | Coding (Python/Java) | App Development (Flutter)**
 - 📫 How to reach me **proby@bu.edu**
 - 👨‍💻 All of my projects are available at **www.proteekbose.com**
 
@@ -43,7 +43,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteekbose&layout=compact&theme=" alt=proteekbose />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteekbose&langs_count=8&theme=dracula" alt=proteekbose />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=proteekbose&show_icons=true&locale=en&theme=" alt="proteekbose" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=proteekbose&theme=" alt="proteekbose" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
