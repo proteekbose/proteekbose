@@ -41,9 +41,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteekbose&langs_count=8&theme=dracula" alt=proteekbose />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=proteekbose&show_icons=true&locale=en&theme=" alt="proteekbose" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=proteekbose&theme=" alt="proteekbose" /></p>
 
