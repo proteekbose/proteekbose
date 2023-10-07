@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proteekbose&label=Profile%20views&color=0e75b6&style=flat" alt="proteekbose" /> </p>
 
 - 🌱 I’m currently learning **Cryptography**
-- 💬 Ask me about **Identity and Access Management (ForgeRock/Sailpoint) | SSO (PingFederate/Microsoft ADFS) | Cloud Security (GCP) | Coding (Python/Java) | App Development (Flutter)**
+- 💬 Ask me about **Identity and Access Management (ForgeRock/Sailpoint) | SSO (PingFederate/Microsoft ADFS) | Cloud Security (GCP) | Automation (Python/Java) | App Development (Flutter) | API Security**
 - 📫 How to reach me **proby@bu.edu**
 - 👨‍💻 All of my projects are available at **www.proteekbose.com**
 
@@ -48,8 +48,6 @@
 <div align="center">
 <a href="https://github.com/proteekbose">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proteekbose&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proteekbose&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proteekbose&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proteekbose&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proteekbose&theme=2077" height="180em" />
 </div>
