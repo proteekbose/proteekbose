@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Cryptography**
 - 💬 Ask me about **Identity and Access Management (ForgeRock/Sailpoint) | SSO (PingFederate/Microsoft ADFS) | Cloud Security (GCP) | Automation (Python/Java) | App Development (Flutter) | API Security**
 - 📫 How to reach me **proby@bu.edu**
-- 👨‍💻 All of my projects are available at **www.proteekbose.com**
+- 👨‍💻 All of my projects are available at **www.proteekbose.github.io**
 
 <div> <a href = "mailto:proby@bu.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/proteekbose" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
