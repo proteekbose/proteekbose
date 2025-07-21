@@ -42,14 +42,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=proteekbose&theme=" alt="proteekbose" /></p>
 <p align="center">
   <img align="center" height="180em"
     src="https://streak-stats.vercel.app/?user=proteekbose&theme=dark&hide_border=true"
     alt="Proteek’s GitHub Streak Stats" />
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
