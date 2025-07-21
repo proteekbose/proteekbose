@@ -3,10 +3,11 @@
 <h3 align="center">Cybersecurity Professional - IAM</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proteekbose&label=Profile%20views&color=0e75b6&style=flat" alt="proteekbose" /> </p>
 
-- 🌱 I’m currently learning **Cryptography**
-- 💬 Ask me about **Identity and Access Management (ForgeRock/Sailpoint) | SSO (PingFederate/Microsoft ADFS) | Cloud Security (GCP) | Automation (Python/Java) | App Development (Flutter) | API Security**
-- 📫 How to reach me **proby@bu.edu**
-- 👨‍💻 All of my projects are available at **(https://proteekbose.github.io/)**
+- 🌱 I’m currently learning **Google Cybersecurity Professional Certificate (Detection & Response)**
+- 💬 Ask me about **Identity and Access Management (ForgeRock | SailPoint | PingFederate) · SSO & Federation · Cloud Security (GCP | AWS) · Secure Microservices (Spring Boot | OAuth2) · Automation (Python | Java) · App Development (Flutter) · DevSecOps & Zero Trust**
+- 📫 How to reach me **yaryaprotikbose@gmail.com**
+- 👨‍💻 All of my projects are available at **https://www.proteekbose.com**
+
 
 <div> <a href = "mailto:proby@bu.edu"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/proteekbose" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
